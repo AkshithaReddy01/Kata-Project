@@ -197,22 +197,30 @@ See [TEST_REPORT.md](./TEST_REPORT.md) for detailed test results and coverage in
 
 ## 📸 Screenshots
 
-_Add screenshots of your application here_
+### Login Page
+The login page features a clean, modern design with email and password fields, allowing users to securely access their accounts.
 
-### Home Page / Dashboard
+![Login Page](./screenshots/login.png)
+
+### Dashboard / Sweet Catalog
+The main dashboard displays all available sweets with search and filter functionality. Users can browse by category, search by name, and add items to their cart.
+
 ![Dashboard](./screenshots/dashboard.png)
 
-### Login Page
-![Login](./screenshots/login.png)
+### Search & Filter Interface
+The search and filter section allows users to find sweets by name or filter by category (Milk-based, Dry Sweet, Fried Sweet, Halwa, Frozen).
 
-### Sweet Catalog
-![Catalog](./screenshots/catalog.png)
-
-### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Search and Filter](./screenshots/search-filter.png)
 
 ### Shopping Cart
-![Cart](./screenshots/cart.png)
+The shopping cart interface shows all selected items with quantity controls, individual prices, and total order amount. Users can modify quantities or remove items before placing an order.
+
+![Shopping Cart](./screenshots/cart.png)
+
+### Product Cards
+Individual sweet product cards display name, category, price, stock availability, and quick action buttons to add items to cart.
+
+![Product Cards](./screenshots/product-cards.png)
 
 ## 🤖 My AI Usage
 
