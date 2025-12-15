@@ -1,4 +1,6 @@
 
+
+
 How to Add Co-Author to Git Commits
 
 ## Method 1: Using the Script (Recommended)
